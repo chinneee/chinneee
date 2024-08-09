@@ -32,3 +32,4 @@ Fresher Data Analyst
   <img src="https://visitcount.itsvg.in/api?id=chinneee&label=Profile%20Views&pretty=false" />
 </a>
 
+![snake gif](https://github.com/chinneee/chinneee/blob/output/github-contribution-grid-snake.gif)
