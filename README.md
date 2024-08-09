@@ -31,6 +31,4 @@ Fresher Data Analyst
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=chinneee&label=Profile%20Views&pretty=false" />
 </a>
-<p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
-</p>
+
