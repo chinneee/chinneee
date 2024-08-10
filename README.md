@@ -33,6 +33,7 @@ Fresher Data Analyst
   <img src="https://visitcount.itsvg.in/api?id=chinneee&label=Profile%20Views&pretty=false" />
 </a>
 
+## Hey, look, this snake is eating my contributions!
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chinneee/chinneee/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chinneee/chinneee/output/github-contribution-grid-snake.svg">
