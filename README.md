@@ -23,10 +23,13 @@ Fresher Data Analyst
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/chinneee"><img src="https://github-readme-stats.vercel.app/api?username=chinneee&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="chinneee's GitHub stats" /></a>
 
-<a href="http://www.github.com/chinneee"><img src="https://github-readme-streak-stats.herokuapp.com/?user=chinneee&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>\
-<a href="https://github.com/chinneee" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinneee&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+ [![John's github stats](https://bad-apple-github-readme.vercel.app/api?username=chinneee&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
+ 
+ [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=chinneee&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+
+[![John Mwendwa's current streak](https://streak-stats.demolab.com/?user=chinneee&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
 ##
 <a href="https://visitcount.itsvg.in">
