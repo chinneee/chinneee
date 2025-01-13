@@ -28,8 +28,9 @@ Fresher Data Analyst
  [![John's github stats](https://bad-apple-github-readme.vercel.app/api?username=chinneee&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
  
  [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=chinneee&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+ 
+ [![My current streak](https://streak-stats.demolab.com/?user=chinneee&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
-[![John Mwendwa's current streak](https://streak-stats.demolab.com/?user=chinneee&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
 ##
 <a href="https://visitcount.itsvg.in">
