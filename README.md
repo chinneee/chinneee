@@ -31,11 +31,8 @@ Fresher Data Analyst
  
  [![My current streak](https://streak-stats.demolab.com/?user=chinneee&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
-
+![](https://komarev.com/ghpvc/?username=chinneeee&color=ff69b4)
 ##
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=chinneee&label=Profile%20Views&pretty=false" />
-</a>
 
 ## Hey, look, this snake is eating my contributions!
 <picture>
