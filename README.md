@@ -17,16 +17,26 @@ Fresher Data Analyst
 
 <p align="left"> <a href="https://www.facebook.com/mynameisTrinhh/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/chinneee" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/trinhnguyen2605/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
+##
+ 
+ [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) 
+ [![Website cv.lbesson.qc.to](https://img.shields.io/website-up-down-green-red/http/cv.lbesson.qc.to.svg)](http://cv.lbesson.qc.to/)
+ [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
+
+
 ## Badges
 
 <b>My GitHub Stats</b>
 
+[![My github trophy](https://github-profile-trophy.vercel.app/?username=chinneee&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
  [![Trinh's github stats](https://bad-apple-github-readme.vercel.app/api?username=chinneee&show_icons=true&count_private=true&line_height=30&icon_color=00b3ff&theme=radical)](#) 
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chinneee&theme=blue-green&title_color=00b3ff&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chinneee&theme=radical&line_height=20)](#)
 
  
- [![My current streak](https://streak-stats.demolab.com/?user=chinneee&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+ [![My current streak](https://streak-stats.demolab.com/?user=chinneee&count_private=true&theme=radical)](#)
+
 
 ![](https://komarev.com/ghpvc/?username=chinneeee&color=ff69b4)
 --
