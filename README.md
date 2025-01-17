@@ -32,7 +32,7 @@ Fresher Data Analyst
 
  [![Trinh's github stats](https://bad-apple-github-readme.vercel.app/api?username=chinneee&show_icons=true&count_private=true&line_height=30&icon_color=00b3ff&theme=radical)](#) 
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chinneee&theme=radical&line_height=20)](#)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chinneee&theme=radical&line_height=20&layout=donut)](#)
 
  
  [![My current streak](https://streak-stats.demolab.com/?user=chinneee&count_private=true&theme=radical)](#)
