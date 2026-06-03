@@ -20,15 +20,13 @@ A Junior Data Analyst focused on Business Intelligence and data visualization. I
 
 <b>My GitHub Stats</b>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=chinneee)](https://github.com/chinneee/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=chinneee&theme=radical&no-frame=true&row=1)](https://github.com/chinneee)
 
- [![Trinh's github stats](https://bad-apple-github-readme.vercel.app/api?username=chinneee&show_icons=true&count_private=true&line_height=30&icon_color=00b3ff&theme=radical)](#) 
+[![Trinh's github stats](https://github-readme-stats.vercel.app/api?username=chinneee&show_icons=true&count_private=true&theme=radical&icon_color=00b3ff)](https://github.com/chinneee)
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chinneee&theme=radical&line_height=20&layout=donut)](#)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chinneee&theme=radical&layout=donut)](https://github.com/chinneee)
 
- 
- [![My current streak](https://streak-stats.demolab.com/?user=chinneee&count_private=true&theme=radical)](#)
-
+[![My current streak](https://streak-stats.demolab.com/?user=chinneee&count_private=true&theme=radical)](https://github.com/chinneee)
 
 ![](https://komarev.com/ghpvc/?username=chinneeee&color=ff69b4)
 --
